@@ -1,6 +1,3 @@
-def distancia_manhattan():
-    """Distancia Manhattan"""
-    
 print("Programa para calcular la distancia Manhattan entre p1(x1, y1) y p2(x2, y2).")
 
 # Se le solicita al usuario ingresar los datos de las coordenadas
