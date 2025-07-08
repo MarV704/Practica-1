@@ -1,8 +1,8 @@
 print("Programa para calcular la distancia Eucliliana")
 #Distancia Eucliliana
 #Formula: d=√(x2 - x1)2 + (y2 - y1)2
-import numpy as np #para obtener la raiz cuadrada
-#se le solicita al usuario ingresar los valores de las coordenadas
+import numpy as np 
+
 print("Ingrese las coordenadas de x1 y y1 del p1")
 x1 = float(input("x1: "))
 y1 = float(input("y1: "))
